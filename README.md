@@ -1,12 +1,11 @@
-ValorWorgen
+RevertForm
 ---
 
 #### Reclaim your humanity!
 
 Features
- - Keeps track if you are currently at risk of fleas.
- - In any situation where Two Forms is usable, pressing your "Toggle Sheath" (default Z) key will return you to human.
+ - In any situation where Two Forms\Visage is usable, pressing your "Toggle Sheath" (default Z) key will return you to human/visage form.
 
 Macros/Addons
- - Can be called from a macro using: /click ValorWorgenButton LeftButton 1
- - Sets "ValorWorgenForm" as a boolean global.
+ - Can be called from a macro using: /click RevertFormButton LeftButton 1
+ - Sets "RevertForm" as a boolean global.
